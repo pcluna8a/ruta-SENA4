@@ -18,3 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Biwkiwx-DR46vZhJuZHcQ7
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+Aplicación web progresiva (PWA) diseñada para aspirantes a la convocatoria laboral del SENA. Su fin es brindar capacitación teórico-práctica y simulación de exámenes (pruebas comportamentales y funcionales) para aumentar la tasa de aprobación y vinculación laboral.
